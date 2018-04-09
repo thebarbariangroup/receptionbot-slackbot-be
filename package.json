@@ -7,7 +7,7 @@
     "start": "node app/server.js",
     "dev": "node --inspect app/server.js"
   },
-  "author": "Christian Clifford",
+  "author": "Christian Clifford <Clcliff30@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@slack/client": "^3.14.1",
